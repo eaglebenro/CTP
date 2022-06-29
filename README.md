@@ -1,1 +1,1 @@
-# CTP is a project where I am evidentl;y learning how to use the git repositories reliably. 
+# CTP is a project where I am evidently learning how to use the git repositories reliably. 
